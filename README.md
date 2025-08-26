@@ -21,13 +21,13 @@
 ---
 
 ## Performance Insights
-- **Speed Insights
-  <img width="1896" height="1024" alt="Screenshot 2025-08-27 003251" src="https://github.com/user-attachments/assets/b5d3fc8f-09a3-4701-9895-1f2b1aee0c33" />
-  <img width="1893" height="1026" alt="image" src="https://github.com/user-attachments/assets/1b371348-c11d-4030-ab3d-0b1ba4c8cffa" />
+- **Speed Insights**
+  <img width="1893" height="1023" alt="Screenshot 2025-08-27 003251" src="https://github.com/user-attachments/assets/b5d3fc8f-09a3-4701-9895-1f2b1aee0c33" />
+  <img width="1893" height="1023" alt="image" src="https://github.com/user-attachments/assets/1b371348-c11d-4030-ab3d-0b1ba4c8cffa" />
 
-- **Web Analytics 
-  /<img width="1899" height="1023" alt="image" src="https://github.com/user-attachments/assets/aafde9ed-dd61-40c2-94ca-2f9292a831bc" />
- <img width="1899" height="1021" alt="image" src="https://github.com/user-attachments/assets/185cf5fa-3f44-4e94-8bcf-79bedb738a66" />
+- **Web Analytics**
+  <img width="1899" height="1023" alt="image" src="https://github.com/user-attachments/assets/aafde9ed-dd61-40c2-94ca-2f9292a831bc" />
+  <img width="1899" height="1023" alt="image" src="https://github.com/user-attachments/assets/185cf5fa-3f44-4e94-8bcf-79bedb738a66" />
 
 ---
 
