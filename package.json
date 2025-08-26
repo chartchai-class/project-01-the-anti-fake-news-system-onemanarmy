@@ -8,10 +8,10 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "npm run type-check && npm run build-only",
+    "build": "npx vue-tsc --build && npm run build-only",
     "preview": "vite preview",
     "build-only": "vite build",
-    "type-check": "vue-tsc --build",
+    "type-check": "npx vue-tsc --build",
     "lint": "eslint . --fix",
     "format": "prettier --write src/"
   },
