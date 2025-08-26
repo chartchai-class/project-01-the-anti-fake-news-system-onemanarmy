@@ -4,10 +4,9 @@
 
 ---
 
-## Group Info
-- **Group Name:** One Man Army
+## Group One Man Army
 
-### 👩‍💻 Members
+### Members
 
 | Student ID | Name               | Section | 
 |------------|--------------------|---------|
