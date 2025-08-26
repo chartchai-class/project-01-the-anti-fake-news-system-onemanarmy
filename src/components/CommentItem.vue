@@ -28,9 +28,9 @@ const handleImageClick = () => {
 
 import LikeComment from '@/components/LikeComment.vue'
 
-function doLike(comment) { /* ... */ }
-function doDislike(comment) { /* ... */ }
-function doUndo(comment, action) { /* ... */ }
+function doLike() { /* ... */ }
+function doDislike() { /* ... */ }
+function doUndo() { /* ... */ }
 
 </script>
 
@@ -70,9 +70,9 @@ function doUndo(comment, action) { /* ... */ }
 
         <div class="ml-auto flex">
           <LikeComment
-            @like="doLike(comment)"
-            @dislike="doDislike(comment)"
-            @undo="doUndo(comment, $event)"
+            @like="doLike()"
+            @dislike="doDislike()"
+            @undo="doUndo()"
           />
         </div>
       </div>
