@@ -15,15 +15,19 @@
 ---
 
 ## Demo
-- **Deployed on Vercel:** [Click to View]()  
-- **Demo Video:** [Click to View]()  
+- **Deployed on Vercel:** [Click to View](https://project-01-the-anti-fake-news-syste-lilac-one.vercel.app/)  
+- **Demo Video:** [Click to View](https://drive.google.com/drive/folders/19XJv0XXJuXHaFhNznPKnpYwbVHJei4N3?usp=sharing)  
 
 ---
 
 ## Performance Insights
-| Speed Insights | Web Analytics |
-|----------------|---------------|
-| ![Speed Insights](/img/) | ![Web Analytics](/img/) |
+- **Speed Insights
+  ![Speed Insights](/img/<img width="1896" height="1024" alt="Screenshot 2025-08-27 003251" src="https://github.com/user-attachments/assets/b5d3fc8f-09a3-4701-9895-1f2b1aee0c33" />)
+  ![Speed Insights2](/img/<img width="1893" height="1026" alt="image" src="https://github.com/user-attachments/assets/1b371348-c11d-4030-ab3d-0b1ba4c8cffa" />)
+
+- - **Web Analytics 
+  ![Web Analytics](/img/<img width="1899" height="1023" alt="image" src="https://github.com/user-attachments/assets/aafde9ed-dd61-40c2-94ca-2f9292a831bc" />)
+  ![Web Analytics2](/img/<img width="1899" height="1021" alt="image" src="https://github.com/user-attachments/assets/185cf5fa-3f44-4e94-8bcf-79bedb738a66" />)
 
 ---
 
@@ -34,7 +38,7 @@
   [https://68ab38ab909a5835049e0ad3.mockapi.io/api/v1/News](https://68ab38ab909a5835049e0ad3.mockapi.io/api/v1/News)  
 
 - **MockAPI Info:**  
-  ![Dashboard MockAPI](/img/)  
+  ![Dashboard MockAPI](/img/<img width="1891" height="503" alt="image" src="https://github.com/user-attachments/assets/9927e97c-a1d8-4cc6-95b2-1881a2ddb40e" />)
 
 ---
 
