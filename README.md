@@ -1,8 +1,43 @@
+# The Anti-Fake News System  
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/k6kO_4Go)
 
-# 331-vite
+---
 
-This template should help get you started developing with Vue 3 in Vite.
+## Group Info
+- **Group Name:** One Man Army
+
+### 👩‍💻 Members
+
+| Student ID | Name               | Section | 
+|------------|--------------------|---------|
+| 662115004  | Jirapat Sereerat   | 702     | 
+
+---
+
+## Demo
+- **Deployed on Vercel:** [Click to View]()  
+- **Demo Video:** [Click to View]()  
+
+---
+
+## Performance Insights
+| Speed Insights | Web Analytics |
+|----------------|---------------|
+| ![Speed Insights](/img/) | ![Web Analytics](/img/) |
+
+---
+
+## Mock Data Setup
+**MockAPI.io**  
+
+- **Public Endpoint:**  
+  [https://68ab38ab909a5835049e0ad3.mockapi.io/api/v1/News](https://68ab38ab909a5835049e0ad3.mockapi.io/api/v1/News)  
+
+- **MockAPI Info:**  
+  ![Dashboard MockAPI](/img/)  
+
+---
 
 ## Recommended IDE Setup
 
