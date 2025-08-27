@@ -1,6 +1,6 @@
 <template>
   <SpeedInsights />
-  <div class="bg-gray-100 min-h-screen font-sans antialiased text-gray-800">
+  <div class="bg-gradient-to-b from-black via-gray-900 to-black min-h-screen font-sans antialiased text-gray-800">
     <!-- Loading Progress Bar -->
     <LoadingProgressBar />
 

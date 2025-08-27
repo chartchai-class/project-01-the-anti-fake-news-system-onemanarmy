@@ -13,6 +13,7 @@ const refreshPage = () => {
 </script>
 
 <template>
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
   <nav class="bg-white shadow-lg relative overflow-hidde">
     <div class="container mx-auto px-4">
       <div class="flex justify-between items-center py-4 relative">

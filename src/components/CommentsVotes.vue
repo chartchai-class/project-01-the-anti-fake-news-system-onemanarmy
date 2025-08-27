@@ -152,7 +152,7 @@ const paginatedComments = computed<Comment[]>(() => {
     <p v-else class="text-gray-500 italic">No comments match the filter.</p>
 
     <div v-if="showImagePopup" class="fixed inset-0 bg-black bg-opacity-75 flex items-center justify-center z-50 p-4" @click="closePopup">
-      <div class="relative max-w-5xl max-h-full" @click.stop>
+      <div class="relative" @click.stop>
         <button
           @click="closePopup"
           class="absolute -top-10 right-0 text-white text-4xl font-light hover:text-gray-300 transition-colors"
@@ -160,7 +160,12 @@ const paginatedComments = computed<Comment[]>(() => {
         >
           &times;
         </button>
-        <img v-if="selectedImage" :src="selectedImage" alt="Full size comment image" class="max-w-full max-h-screen-75 object-contain rounded-lg shadow-xl" />
+        <img
+          v-if="selectedImage"
+          :src="selectedImage"
+          alt="Full size comment image"
+          class="max-w-[90vw] max-h-[90vh] object-contain rounded-lg shadow-xl"
+        />
       </div>
     </div>
   </div>
